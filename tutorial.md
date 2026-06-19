@@ -26,6 +26,7 @@ The **EFP Numbers Generator** is a Python script that transforms Square's catego
 **Key Features:**
 
 - Reads Square category-sales CSV exports
+- Category Sales select display by channel
 - Creates one Excel sheet per brand
 - Calculates sales percentages and budget splits
 - Color-codes Coastal vs. Local store groups

@@ -25,7 +25,7 @@ from openpyxl.utils import get_column_letter
 #  CONFIG  –  edit these values as needed
 # ─────────────────────────────────────────────
 
-CSV_PATH = "category-sales-2026-04-25-2026-05-25_2_.csv"
+CSV_PATH = "category-sales-2026-05-19-2026-06-19.csv"
 OUTPUT_PATH = "EFP_Numbers_All_Brands.xlsx"
 
 # Brands + their allocated budgets
